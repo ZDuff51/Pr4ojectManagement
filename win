@@ -1,3 +1,6 @@
 test1 = int(input("Enter num"))
 if test1 > 10:
   print("You Win")
+else:
+  print("Not good")
+  print(1)
