@@ -1,0 +1,4 @@
+print("Hallo!")
+name=input("Give me your name: ")
+if name == 'Vinny' or name == 'vinny':
+  print("GET OUT OF MY HOUSE BRO")
